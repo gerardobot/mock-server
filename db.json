@@ -1,0 +1,113 @@
+{
+  "directory": [
+    {
+      "id": "1",
+      "centerName": "Rehabilitación Alonso Martínez",
+      "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
+      "specialtiesDescription": [
+        {"id": "3", "name": "Fisioterapia y rehabilitación"}
+      ],
+      "phone": "913 105 331",
+      "address": "Pz. Alonso Martínez, 6",
+      "postalCode": "28004",
+      "city": "Madrid",
+      "longitude": -3.695091,
+      "latitude": 40.427739,
+      "specialists": [
+        {"name":"Dr. Diego Ruiz Molina", "rating": 3},
+        {"name":"Dña. Jayashri Ramesh Sirwania", "rating": 4},
+        {"name":"Dña. Mª Victoria Quintano García", "rating": 3},
+        {"name":"Dra. Sara Pérez Díaz", "rating": 5}
+      ]
+    },
+    {
+      "id": "2",
+      "centerName": "Cirugía Martínez Alonso",
+      "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
+      "specialtiesDescription": [
+        {"id": "2", "name": "Cirugía"}
+      ],
+      "phone": "913 104 331",
+      "address": "Callle Menorca, 4",
+      "postalCode": "11406",
+      "city": "Jerez de la Frontera",
+      "longitude":  -6.124355,
+      "latitude": 36.679717,
+      "specialists": [
+        {"name":"Dra. Diega Molina Ruiz", "rating": 2},
+        {"name":"Dn. Ramesh Jayashri Sirwania", "rating": 4},
+        {"name":"Dn. Victor García Quintano", "rating": 3},
+        {"name":"Dr. Saro Díaz Pérez", "rating": 5}
+      ]
+    },
+    {
+      "id": "3",
+      "centerName": "Óptica Martina Alonso",
+      "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
+      "specialtiesDescription": [
+        {"id": "2", "name": "Cirugía"},
+        {"id": "3", "name": "Óptica"}
+      ],
+      "phone": "913 103 331",
+      "address": "Callle Gran Vía, 57",
+      "postalCode": "28013",
+      "city": "Madrid",
+      "longitude": -3.708822,
+      "latitude": 40.421844,
+      "specialists": [
+        {"name":"Dra. Martina Alonso", "rating": 4}
+      ]
+    },
+    {
+      "id": 4,
+      "centerName": "Cirugía Martínez Alonso",
+      "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
+      "specialtiesDescription": [
+        {"id": 2, "name": "Cirugía"}
+      ],
+      "phone": "913 104 331",
+      "address": "Callle Sepúlveda, 3",
+      "postalCode": "28011",
+      "city": "Madrid",
+      "longitude":  -3.724296,
+      "latitude": 40.406350,
+      "specialists": [
+        {"name":"Dr. Martinez Alonso", "rating": 5}
+      ]
+    }
+  ],
+  "specialties": [
+    {"id": "1", "name": "Fisioterapia y rehabilitación"},
+    {"id": "2", "name": "Cirugía"},
+    {"id": "3", "name": "Óptica"},
+    {"id": "1300", "name": "Alergologían"},
+    {"id": "1301", "name": "Alergología Pediátrica"},
+    {"id": "5000", "name": "Análisis Clínicos"}
+  ],
+  "provinces": [
+    {
+      "displayName":"Madrid",
+      "alternativeSpelling": [],
+      "cities":[
+        {
+          "displayName": "Madrid",
+          "alternativeSpelling": []
+        }
+      ]
+    },
+    {
+      "displayName": "Cádiz",
+      "alternativeSpelling": ["cadiz"],
+          "cities": [
+            {
+              "displayName": "Jerez de la Frontera",
+              "alternativeSpelling": []
+            },
+            {
+              "displayName": "El Puerto de Santa María",
+              "alternativeSpelling": ["el puerto de santa maria"]
+            }
+          ]
+        }
+  ]
+}

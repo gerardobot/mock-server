@@ -125,12 +125,16 @@
     "name": "CÁDIZ"
   }],
   
-  "cities": {
-    "01": [
+  "cities": [
+    {
+    "id": "01,
+    "cities": [
       {"id": "c01",
        "name": "MADRID"}
-    ],
-    "02": [
+      ]
+    },
+    "id": "02",
+"cities": [
       {"id": "c02",
        "name": "CÁDIZ"},
       {"id": "c03",
@@ -139,4 +143,5 @@
        "name": "EL PUERTO DE SANTA MARÍA"}
     ]
   }
+]
 }

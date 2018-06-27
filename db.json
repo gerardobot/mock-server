@@ -117,18 +117,26 @@
       "name": "Análisis Clínicos"
     }
   ],
-  "provinces": [
-    "MADRID",
-    "CÁDIZ"
-  ],
+  "provinces": [{
+    "id": "01",
+    "name": "MADRID"
+  }, {
+    "id": "02",
+    "name": "CÁDIZ"
+  }],
+  
   "cities": {
-    "MADRID": [
-      "MADRID"
+    "01": [
+      {"id" = "c01",
+       "name" = "MADRID"}
     ],
-    "CÁDIZ": [
-      "JEREZ DE LA FRONTERA",
-      "CÁDIZ",
-      "EL PUERTO DE SANTA MARÍA"
+    "02": [
+      {"id" = "c02",
+       "name" = "CÁDIZ"},
+      {"id" = "c03",
+       "name" = "JEREZ DE LA FRONTERA"},
+      {"id" = "c04",
+       "name" = "EL PUERTO DE SANTA MARÍA"}
     ]
   }
 }

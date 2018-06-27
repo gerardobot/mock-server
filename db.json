@@ -85,8 +85,8 @@
     {"id": "5000", "name": "Análisis Clínicos"}
   ],
   "provinces": ["MADRID", "CÁDIZ"],
-  "cities": [
+  "cities": {
     "MADRID": ["MADRID"],
     "CÁDIZ": ["JEREZ DE LA FRONTERA", "CÁDIZ", "EL PUERTO DE SANTA MARÍA"]
-  ]
+  }
 }

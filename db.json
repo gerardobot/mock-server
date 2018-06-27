@@ -14,10 +14,10 @@
       "longitude": -3.695091,
       "latitude": 40.427739,
       "specialists": [
-        {"name":"Dr. Diego Ruiz Molina", "rating": 3},
-        {"name":"Dña. Jayashri Ramesh Sirwania", "rating": 4},
-        {"name":"Dña. Mª Victoria Quintano García", "rating": 3},
-        {"name":"Dra. Sara Pérez Díaz", "rating": 5}
+"Dr. Diego Ruiz Molina",
+"Dña. Jayashri Ramesh Sirwania", 
+"Dña. Mª Victoria Quintano García",
+"Dra. Sara Pérez Díaz"
       ]
     },
     {
@@ -34,10 +34,10 @@
       "longitude":  -6.124355,
       "latitude": 36.679717,
       "specialists": [
-        {"name":"Dra. Diega Molina Ruiz", "rating": 2},
-        {"name":"Dn. Ramesh Jayashri Sirwania", "rating": 4},
-        {"name":"Dn. Victor García Quintano", "rating": 3},
-        {"name":"Dr. Saro Díaz Pérez", "rating": 5}
+     "Dra. Diega Molina Ruiz",
+  "Dn. Ramesh Jayashri Sirwania",
+"Dn. Victor García Quintano", 
+    "Dr. Saro Díaz Pérez"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "longitude": -3.708822,
       "latitude": 40.421844,
       "specialists": [
-        {"name":"Dra. Martina Alonso", "rating": 4}
+      "Dra. Martina Alonso"
       ]
     },
     {
@@ -72,7 +72,7 @@
       "longitude":  -3.724296,
       "latitude": 40.406350,
       "specialists": [
-        {"name":"Dr. Martinez Alonso", "rating": 5}
+        "Dr. Martinez Alonso"
       ]
     }
   ],
@@ -84,30 +84,9 @@
     {"id": "1301", "name": "Alergología Pediátrica"},
     {"id": "5000", "name": "Análisis Clínicos"}
   ],
-  "provinces": [
-    {
-      "displayName":"Madrid",
-      "alternativeSpelling": [],
-      "cities":[
-        {
-          "displayName": "Madrid",
-          "alternativeSpelling": []
-        }
-      ]
-    },
-    {
-      "displayName": "Cádiz",
-      "alternativeSpelling": ["cadiz"],
-          "cities": [
-            {
-              "displayName": "Jerez de la Frontera",
-              "alternativeSpelling": []
-            },
-            {
-              "displayName": "El Puerto de Santa María",
-              "alternativeSpelling": ["el puerto de santa maria"]
-            }
-          ]
-        }
+  "provinces": ["MADRID", "CÁDIZ"],
+  "cities": [
+    "MADRID": ["MADRID"],
+    "CÁDIZ": ["JEREZ DE LA FRONTERA", "CÁDIZ", "EL PUERTO DE SANTA MARÍA"]
   ]
 }

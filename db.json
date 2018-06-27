@@ -5,7 +5,10 @@
       "centerName": "Rehabilitación Alonso Martínez",
       "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
       "specialtiesDescription": [
-        {"id": "3", "name": "Fisioterapia y rehabilitación"}
+        {
+          "id": "3",
+          "name": "Fisioterapia y rehabilitación"
+        }
       ],
       "phone": "913 105 331",
       "address": "Pz. Alonso Martínez, 6",
@@ -14,10 +17,10 @@
       "longitude": -3.695091,
       "latitude": 40.427739,
       "specialists": [
-"Dr. Diego Ruiz Molina",
-"Dña. Jayashri Ramesh Sirwania", 
-"Dña. Mª Victoria Quintano García",
-"Dra. Sara Pérez Díaz"
+        "Dr. Diego Ruiz Molina",
+        "Dña. Jayashri Ramesh Sirwania",
+        "Dña. Mª Victoria Quintano García",
+        "Dra. Sara Pérez Díaz"
       ]
     },
     {
@@ -25,19 +28,22 @@
       "centerName": "Cirugía Martínez Alonso",
       "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
       "specialtiesDescription": [
-        {"id": "2", "name": "Cirugía"}
+        {
+          "id": "2",
+          "name": "Cirugía"
+        }
       ],
       "phone": "913 104 331",
       "address": "Callle Menorca, 4",
       "postalCode": "11406",
       "city": "Jerez de la Frontera",
-      "longitude":  -6.124355,
+      "longitude": -6.124355,
       "latitude": 36.679717,
       "specialists": [
-     "Dra. Diega Molina Ruiz",
-  "Dn. Ramesh Jayashri Sirwania",
-"Dn. Victor García Quintano", 
-    "Dr. Saro Díaz Pérez"
+        "Dra. Diega Molina Ruiz",
+        "Dn. Ramesh Jayashri Sirwania",
+        "Dn. Victor García Quintano",
+        "Dr. Saro Díaz Pérez"
       ]
     },
     {
@@ -45,8 +51,14 @@
       "centerName": "Óptica Martina Alonso",
       "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
       "specialtiesDescription": [
-        {"id": "2", "name": "Cirugía"},
-        {"id": "3", "name": "Óptica"}
+        {
+          "id": "2",
+          "name": "Cirugía"
+        },
+        {
+          "id": "3",
+          "name": "Óptica"
+        }
       ],
       "phone": "913 103 331",
       "address": "Callle Gran Vía, 57",
@@ -55,7 +67,7 @@
       "longitude": -3.708822,
       "latitude": 40.421844,
       "specialists": [
-      "Dra. Martina Alonso"
+        "Dra. Martina Alonso"
       ]
     },
     {
@@ -63,13 +75,16 @@
       "centerName": "Cirugía Martínez Alonso",
       "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
       "specialtiesDescription": [
-        {"id": 2, "name": "Cirugía"}
+        {
+          "id": 2,
+          "name": "Cirugía"
+        }
       ],
       "phone": "913 104 331",
       "address": "Callle Sepúlveda, 3",
       "postalCode": "28011",
       "city": "Madrid",
-      "longitude":  -3.724296,
+      "longitude": -3.724296,
       "latitude": 40.406350,
       "specialists": [
         "Dr. Martinez Alonso"
@@ -77,16 +92,43 @@
     }
   ],
   "specialties": [
-    {"id": "1", "name": "Fisioterapia y rehabilitación"},
-    {"id": "2", "name": "Cirugía"},
-    {"id": "3", "name": "Óptica"},
-    {"id": "1300", "name": "Alergologían"},
-    {"id": "1301", "name": "Alergología Pediátrica"},
-    {"id": "5000", "name": "Análisis Clínicos"}
+    {
+      "id": "1",
+      "name": "Fisioterapia y rehabilitación"
+    },
+    {
+      "id": "2",
+      "name": "Cirugía"
+    },
+    {
+      "id": "3",
+      "name": "Óptica"
+    },
+    {
+      "id": "1300",
+      "name": "Alergologían"
+    },
+    {
+      "id": "1301",
+      "name": "Alergología Pediátrica"
+    },
+    {
+      "id": "5000",
+      "name": "Análisis Clínicos"
+    }
   ],
-  "provinces": ["MADRID", "CÁDIZ"],
+  "provinces": [
+    "MADRID",
+    "CÁDIZ"
+  ],
   "cities": {
-    "MADRID": ["MADRID"],
-    "CÁDIZ": ["JEREZ DE LA FRONTERA", "CÁDIZ", "EL PUERTO DE SANTA MARÍA"]
+    "MADRID": [
+      "MADRID"
+    ],
+    "CÁDIZ": [
+      "JEREZ DE LA FRONTERA",
+      "CÁDIZ",
+      "EL PUERTO DE SANTA MARÍA"
+    ]
   }
 }

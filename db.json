@@ -127,16 +127,16 @@
   
   "cities": {
     "01": [
-      {"id" = "c01",
-       "name" = "MADRID"}
+      {"id": "c01",
+       "name": "MADRID"}
     ],
     "02": [
-      {"id" = "c02",
-       "name" = "CÁDIZ"},
-      {"id" = "c03",
-       "name" = "JEREZ DE LA FRONTERA"},
-      {"id" = "c04",
-       "name" = "EL PUERTO DE SANTA MARÍA"}
+      {"id": "c02",
+       "name": "CÁDIZ"},
+      {"id": "c03",
+       "name": "JEREZ DE LA FRONTERA"},
+      {"id": "c04",
+       "name": "EL PUERTO DE SANTA MARÍA"}
     ]
   }
 }

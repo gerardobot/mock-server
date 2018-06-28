@@ -71,12 +71,12 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "centerName": "Cirugía Martínez Alonso",
       "centerDescription": "La clínica Alonso Martinez opera tanto de manera privada como concertada con las principales sociedades médicas.",
       "specialtiesDescription": [
         {
-          "id": 2,
+          "id": "2",
           "name": "Cirugía"
         }
       ],
